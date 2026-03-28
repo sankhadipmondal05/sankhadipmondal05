@@ -25,10 +25,10 @@ Focused on motion, interaction, and building visually refined digital experience
 ### 🎨 Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=framer" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 </p>
+
 
 ### 💻 Frontend
 <p>
