@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_dkec5dkec5dkec5d.png" alt="Sankhadip Mondal Banner" width="100%" />
+  <img src="Gemini_Generated_Image_dkec5dkec5dkec5d.png" width="100%" />
 </p>
 
 <p align="center">
