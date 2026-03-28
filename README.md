@@ -1,19 +1,31 @@
-# Sankhadip Mondal
-### Designer-first Full Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header"/>
+</p>
 
+<h1 align="center">Sankhadip Mondal</h1>
+<h3 align="center">Designer-first Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Designer-first+Developer;UI%2FUX+Focused;Full+Stack+Engineer;Motion+Enthusiast&center=true&width=500&height=40"/>
+</p>
+
+<p align="center">
 I design clean, user-centric interfaces and bring them to life with code.  
 Focused on motion, interaction, and building visually refined digital experiences.
+</p>
 
-👉 **Portfolio:** https://your-portfolio-link.com  
+<p align="center">
+👉 <a href="https://your-portfolio-link.com"><b>Visit Portfolio</b></a>
+</p>
 
 ---
 
 ## 🌐 Connect
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/sankhadip_05">
     <img src="https://skillicons.dev/icons?i=instagram" height="28"/>
   </a>
-  <a href="https://linkedin.com/in/sankhadip-mondal-506b953ba/">
+  <a href="https://www.linkedin.com/in/sankhadip-mondal-506b953ba/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
   </a>
 </p>
@@ -24,26 +36,24 @@ Focused on motion, interaction, and building visually refined digital experience
 
 ### 🎨 Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  <img src="https://skillicons.dev/icons?i=framer" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,framer" height="40"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="28"/>
 </p>
-
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" height="40"/>
 </p>
 
 ### 🎬 Motion
 <p>
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat&logo=greensock&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-000000?style=flat&logo=framer&logoColor=white" height="28"/>
 </p>
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="40"/>
 </p>
 
 ---
@@ -63,3 +73,11 @@ Focused on motion, interaction, and building visually refined digital experience
 - Clean, scalable systems  
 
 ---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sankhadipmondal05&icon=0&color=6"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
