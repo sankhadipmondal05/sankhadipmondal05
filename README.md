@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/img" />
-</p>
-
-<p align="center">
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=codeproject&logoColor=white" height="35"/>
   </a>
@@ -15,9 +11,6 @@
   </a>
   <a href="https://instagram.com/sankhadip_05">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </p>
 
