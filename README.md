@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://portfolio-alpha-orpin-37.vercel.app/">
     <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=codeproject&logoColor=white" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/sankhadip-mondal-506b953ba/">
@@ -21,7 +21,7 @@ I'm **Sankhadip Mondal**, a 3rd-year developer who bridges the gap between high-
 
 > [!TIP]
 > **Looking for the full experience?** My portfolio features interactive motion studies, high-fidelity prototypes, and deep dives into my UX process. 
-> **[Check it out here →](https://your-portfolio-link.com)**
+> **[Check it out here →](https://portfolio-alpha-orpin-37.vercel.app/)**
 
 ---
 
